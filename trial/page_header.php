@@ -11,7 +11,7 @@ session_start();
 <title>学内クラウドソーシング</title>
 <link rel="stylesheet" TYPE="text/css" href="css/style.css">
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
-<link rel="stylesheet" href="http://cdn.rawgit.com/Eonasdan/bootstrap-datetimepicker/v4.0.0/build/css/bootstrap-datetimepicker.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Eonasdan/bootstrap-datetimepicker@v4.0.0/build/css/bootstrap-datetimepicker.css">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="http://winofsql.jp/js/jquery.balloon.min.051.js"></script>
 
